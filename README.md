@@ -1,1 +1,6 @@
-#Git Playgorund
+\# Git Playground
+
+
+
+Belajar Git bersama ChatGPT.
+
